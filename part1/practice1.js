@@ -41,3 +41,19 @@ let yourName;
 console.log(yourName);
 
 */
+
+/*
+
+// null
+
+let emptyValue = null;
+console.log(emptyValue);
+
+*/
+
+// let country = "USA";
+// console.log(country);
+
+// const user = { name: "Akira" };
+// user.name = "HM";
+// console.log(user);
