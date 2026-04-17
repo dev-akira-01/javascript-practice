@@ -4,7 +4,7 @@ gameName = "arknights endfield"; // overwriting the value of var gameName
 
 console.log(gameName);
 
-const username = "akira-dev-01";
+const username = "akira-dev-01"; //fixed space in the memory
 
 username = "akira-dev";
 
