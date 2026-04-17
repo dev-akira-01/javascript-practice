@@ -30,5 +30,18 @@ let credits = 10;
 credits--;
 
 console.log(credits);
+
 */
 
+// comparison operators
+
+// let num1 = 10;
+// let num2 = 20;
+// let num3 = 10;
+
+// let compare = num1 == num2;
+// let compare2 = num1 == num3;
+
+// let result = compare == compare2;
+
+// console.log(result);
