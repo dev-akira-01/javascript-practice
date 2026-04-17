@@ -11,3 +11,24 @@
 // let div = 25 / 5; // divide
 // let reminder = 26 % 5; // reminder
 // let expo = 2 ** 4; // exponent
+
+/*
+
+let myScore = 110;
+myScore++;
+myScore++;
+myScore++;
+myScore++;
+
+console.log(myScore);
+*/
+
+/*
+
+let credits = 10;
+
+credits--;
+
+console.log(credits);
+*/
+
