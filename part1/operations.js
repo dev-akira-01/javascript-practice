@@ -45,3 +45,7 @@ console.log(credits);
 // let result = compare == compare2;
 
 // console.log(result);
+
+// let a = 10
+// let b = 5
+// console.log(a % b) // 0
