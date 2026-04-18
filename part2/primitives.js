@@ -20,9 +20,16 @@
 
 // string
 
-let greeting = "Hello";
-let name = "Akira";
-let greetMessage = "How is your day going";
+// let greeting = "Hello";
+// let name = "Akira";
+// let greetMessage = "How is your day going";
 
-let message = `${greeting}! ${name}, ${greetMessage}?`;
-console.log(message);
+// let message = `${greeting}! ${name}, ${greetMessage}?`;
+// console.log(message);
+
+// let num1 = 175;
+// let num2 = 25;
+
+// let sum = `The sum of ${num1} and ${num2} is ${num1 + num2}`;
+
+// console.log(sum);
