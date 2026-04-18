@@ -33,3 +33,7 @@
 // let sum = `The sum of ${num1} and ${num2} is ${num1 + num2}`;
 
 // console.log(sum);
+
+let x = 5;
+let y = Math.pow(x, 2);
+console.log(y);
