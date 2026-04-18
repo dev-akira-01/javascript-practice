@@ -15,3 +15,9 @@
 // console.log(today.getUTCDate());
 
 // array
+
+let users = ["Akira", 18, true];
+// console.log(users[0])
+
+let isValue = false;
+console.log(isValue + 5);
