@@ -32,6 +32,24 @@
 // let sum = x + y
 // console.log(sum)
 
-const arr = ["num1", , "num3"];
+// const arr = ["num1", /* empty */ , "num3"];
 
-console.log(arr[2]);
+// console.log(arr[2]);
+
+// console.log("Akira Dev".length)
+
+// let str1 = `My name is .\nI am learning`;
+
+// console.log(str1);
+
+// "Hey
+// jo mslmls
+// mlsdmdl" // can't create multi-line string using double quotes or single quotes
+
+//string interpolation
+
+// const name = "lev",
+//   time = "today";
+
+// const greetMessage = `Hello! ${name}, How are you ${time}`;
+// console.log(greetMessage);
