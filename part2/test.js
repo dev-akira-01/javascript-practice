@@ -53,3 +53,11 @@
 
 // const greetMessage = `Hello! ${name}, How are you ${time}`;
 // console.log(greetMessage);
+
+// const myWhatever = "This is string \
+// Now it works \
+// on multiple lines"
+
+// console.log(myWhatever)
+
+// forward slash way and back-tick way for multi line strings 
