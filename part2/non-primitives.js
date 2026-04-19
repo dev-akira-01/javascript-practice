@@ -21,3 +21,12 @@
 
 // let isValue = false;
 // console.log(isValue + 5);
+
+// let x; // by default undefined
+// console.log(x)
+
+// let x; 
+// x = 42 // equivalent to let x = 42
+
+// console.log(x)
+
