@@ -18,8 +18,20 @@
 
 // when adding numbers and string using the '+' operator, the numeric values are converted to string
 
-let x = 12
-let y = "8"
+// let x = 12
+// let y = "8"
 
-let diff = x - y
-console.log(diff)
+// let diff = x - y
+// console.log(diff)
+
+// converting strings to numbers
+
+// let x = "25"
+// let y = 20
+
+// let sum = x + y
+// console.log(sum)
+
+const arr = ["num1", , "num3"];
+
+console.log(arr[2]);
