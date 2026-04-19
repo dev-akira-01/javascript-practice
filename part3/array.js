@@ -21,3 +21,18 @@ teaTypes[1] = "Jasmine Tea";
 
 console.log(teaTypes); */
 
+// adding elements to the array
+
+/* let citiesVisited = ["Mumbai", "Sydney"];
+
+// citiesVisited[citiesVisited.length] = "Berlin";
+
+citiesVisited.push("Berlin");
+
+console.log(citiesVisited); */
+
+// pop the last array item
+
+let teaOrders = ["Chai", "Iced Tea", "Matcha", "Earl Grey", "Milk Tea"];
+let lastOrder = teaOrders.pop();
+console.log(lastOrder);
