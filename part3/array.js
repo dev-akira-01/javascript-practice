@@ -13,3 +13,11 @@ console.log(firstTea); */
 const favouriteCity = cities[2];
 
 console.log(favouriteCity); */
+
+// changing second element of array to jasamine tea
+
+/* let teaTypes = ["Herbal Tea", "White Tea", "Masala Tea"];
+teaTypes[1] = "Jasmine Tea";
+
+console.log(teaTypes); */
+
