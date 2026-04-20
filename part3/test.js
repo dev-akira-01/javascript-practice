@@ -44,3 +44,10 @@ console.log(fruits);
 console.log(removedItems);
 // ["Strawberry", "Mango", "Cherry"]
  */
+
+/* const fruits = ["apple", "banana"];
+const start = fruits.indexOf("banana");
+const deleteCount = 1;
+const removedItems = fruits.splice(start, deleteCount);
+console.log(fruits); */
+  
