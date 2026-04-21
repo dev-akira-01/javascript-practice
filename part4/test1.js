@@ -12,7 +12,7 @@ for (let index = 0; index < numbers.length; index++) {
 
 // array that only contains even numbers multiplied by 3.
 
-let numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+/* let numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9];
 let evenNumbers = [];
 let multipliedNumbers = [];
 
@@ -30,3 +30,15 @@ for (let index = 0; index < evenNumbers.length; index++) {
 
 console.log(multipliedNumbers);
 // expected [6,12,18,24]
+ */
+
+// sum of all even numbers 2 to 10
+
+i = 0;
+sum = 0;
+
+while (i <= 10) {
+  sum += i;
+  i += 2;
+}
+console.log(sum);
