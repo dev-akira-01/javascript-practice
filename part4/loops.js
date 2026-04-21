@@ -32,13 +32,13 @@ console.log(sum); */
 
 // while loop for storing 5,4,3,2,1 in an array
 
-let count = [];
+/* let count = [];
 let i = 5;
 
 while (i >= 1) {
   count.push(i);
   i--;
-}
+} */
 
 // console.log(count);
 
@@ -75,3 +75,30 @@ for (let i = 0; i < numbers.length; i++) {
 }
 
 console.log(multipliedNumbers); */
+
+/* for (let step = 0; step < 5; step++) {
+  // const element = array[step];
+  console.log("walk easy one step");
+}
+ */
+/* let str = " ";
+
+for (let index = 1; index < 9; index++) {
+  str += index;
+}
+
+console.log(str);
+ */
+
+// let i = 0;
+/* for (i = 0; i < 9; i++) {
+  console.log(i);
+}
+ */
+
+/* for (let index = 1; ; index++) {
+  console.log(index);
+  if (index >= 100) break;
+}
+ */
+
