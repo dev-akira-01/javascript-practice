@@ -86,10 +86,23 @@ console.log(total); */
 
 // a string "987654321" using a for loop.
 
-let str = "";
+/* let str = "";
 
 for (let index = 9; index > 0; index--) {
   str += index;
 }
 
-console.log(str);
+console.log(str); */
+
+// Create a new array containing each value multiplied by 4. let arr = [3, 6, 9, 12];
+
+let arr = [3, 6, 9, 12];
+let multipliedArr = [];
+
+// expected arr = [12,24,36,48]
+
+for (index = 0; index < arr.length; index++) {
+  multipliedArr.push(arr[index] * 4);
+}
+
+console.log(multipliedArr);
