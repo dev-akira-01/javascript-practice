@@ -83,3 +83,13 @@ do {
 } while (i <= 5);
 
 console.log(total); */
+
+// a string "987654321" using a for loop.
+
+let str = "";
+
+for (let index = 9; index > 0; index--) {
+  str += index;
+}
+
+console.log(str);
