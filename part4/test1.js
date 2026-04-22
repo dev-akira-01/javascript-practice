@@ -141,3 +141,20 @@ console.log("Total: " + sum);
 console.log("Stopped at: " + stoppedAt);
 // console.log(arr);
  */
+
+let nums = [2, 5, 8, 11, 14];
+evenNumsX5 = [];
+
+//Create a new array of numbers that are even and multiplied by 5
+
+// [10,40,70]
+
+for (let index = 0; index < nums.length; index++) {
+  multi = nums[index] * 5;
+  if (multi % 2 === 0) {
+    evenNumsX5.push(multi);
+  }
+}
+
+console.log("Original Numbers Array: ", nums);
+console.log("Even numbers from OG array Multiplied by 5: ", evenNumsX5);
