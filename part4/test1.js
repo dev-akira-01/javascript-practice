@@ -96,7 +96,7 @@ console.log(str); */
 
 // Create a new array containing each value multiplied by 4. let arr = [3, 6, 9, 12];
 
-let arr = [3, 6, 9, 12];
+/* let arr = [3, 6, 9, 12];
 let multipliedArr = [];
 
 // expected arr = [12,24,36,48]
@@ -105,4 +105,18 @@ for (index = 0; index < arr.length; index++) {
   multipliedArr.push(arr[index] * 4);
 }
 
-console.log(multipliedArr);
+console.log(multipliedArr); */
+
+// Count How Many Are Even, using for loop
+
+/* let arr = [1, 2, 3, 4, 5, 6];
+let evenCount = 0;
+// expected 3
+
+for (index = 0; index < arr.length; index++) {
+  if (arr[index] % 2 === 0) {
+    evenCount += 1;
+  }
+}
+
+console.log(evenCount); */
