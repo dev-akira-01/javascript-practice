@@ -34,11 +34,23 @@ console.log(multipliedNumbers);
 
 // sum of all even numbers 2 to 10
 
-i = 0;
+/* i = 0;
 sum = 0;
 
 while (i <= 10) {
   sum += i;
   i += 2;
 }
-console.log(sum);
+console.log(sum); */
+
+// store all odd numbers in the variable oddNumbers , between 1 to 10
+
+const oddNumbers = [];
+let i = 1;
+
+while (i <= 10) {
+  oddNumbers.push(i);
+  i += 2;
+}
+
+console.log(oddNumbers);
