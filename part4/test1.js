@@ -70,3 +70,16 @@ do {
 } while (name !== "quit");
 
 console.log(arr); */
+
+// Using a do loop, multiply total by i until i reaches 5.
+// expected 1 * 2 * 3 * 4 * 5 = 120
+
+/* let total = 1;
+let i = 1;
+
+do {
+  total *= i; // total = total * i 
+  i++;
+} while (i <= 5);
+
+console.log(total); */
