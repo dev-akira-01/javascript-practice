@@ -142,7 +142,7 @@ console.log("Stopped at: " + stoppedAt);
 // console.log(arr);
  */
 
-let nums = [2, 5, 8, 11, 14];
+/* let nums = [2, 5, 8, 11, 14];
 evenNumsX5 = [];
 
 //Create a new array of numbers that are even and multiplied by 5
@@ -158,3 +158,11 @@ for (let index = 0; index < nums.length; index++) {
 
 console.log("Original Numbers Array: ", nums);
 console.log("Even numbers from OG array Multiplied by 5: ", evenNumsX5);
+ */
+
+let pattern = "";
+
+for (let index = 1; index < 6; index++) {
+  pattern += "*";
+  console.log(pattern);
+}
