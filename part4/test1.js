@@ -120,3 +120,24 @@ for (index = 0; index < arr.length; index++) {
 }
 
 console.log(evenCount); */
+
+// sum until totalSum exceeds 50, store the last added number
+/* 
+Total: 55
+Stopped at: 10 */
+
+/* let sum = 0;
+let i = 0;
+let stoppedAt = 0;
+let arr = [];
+
+do {
+  sum += i;
+  arr.push(i++);
+  stoppedAt = arr[arr.length - 1];
+} while (sum < 50);
+
+console.log("Total: " + sum);
+console.log("Stopped at: " + stoppedAt);
+// console.log(arr);
+ */
