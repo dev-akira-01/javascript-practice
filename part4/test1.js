@@ -45,7 +45,7 @@ console.log(sum); */
 
 // store all odd numbers in the variable oddNumbers , between 1 to 10
 
-const oddNumbers = [];
+/* const oddNumbers = [];
 let i = 1;
 
 while (i <= 10) {
@@ -54,3 +54,19 @@ while (i <= 10) {
 }
 
 console.log(oddNumbers);
+ */
+
+// Use a do…while loop to keep asking the user: enter a name (type quit to stop) Store all names in an array except the word "quit".
+
+/* let arr = [];
+let name;
+do {
+  name = prompt("enter a name (type quit to stop): ");
+  if (name !== "quit") {
+    arr.push(name);
+  } else {
+    break;
+  }
+} while (name !== "quit");
+
+console.log(arr); */
